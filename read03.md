@@ -1,0 +1,3 @@
+Chapter 18:
+  This chapter starts with helping me understand the targeted audience for my website and what questions to ask myself and the client when trying to figure out the audience. Then it encourages me to study and research the specific goals and motivations of that audience and what they want to acheive when visiting my website. After that, I should be deciding what kind of information would be beneficial for them and how often will they be visiting the website.
+  An important step after that is the plan or the site map of the website which will help with the final design and the sorting of information in addition to a wireframe which will help with the graphic part of the design.

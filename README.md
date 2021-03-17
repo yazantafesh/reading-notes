@@ -6,9 +6,9 @@
 
 ### Table of Contents:
 
-|   Assignment   |   Link                                |
-|----------------|---------------------------------------|
-|   Read 1       |[The Coder's Computer](read01.md)      |
-|   Read 2 a     |[Learning Markdown](read02a.md)        |
-|   Read 2 b     |[Revisions and the Cloud](read02b.md)  |
-
+|   Assignment   |   Link                                   |
+|----------------|------------------------------------------|
+|   Read 1       |[The Coder's Computer](read01.md)         |
+|   Read 2 a     |[Learning Markdown](read02a.md)           |
+|   Read 2 b     |[Revisions and the Cloud](read02b.md)     |
+|   Read 3       |[Structure webpages with HTML](read03.md) |
