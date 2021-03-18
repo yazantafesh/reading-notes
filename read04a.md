@@ -1,0 +1,6 @@
+**The first part** of this reading starts with an introduction about JS describing briefly what we can do with it like access or modify content, put some program rules or react to specific events, then it shows some examples of how it is used in different websites.
+Then it talks about scripts and explains the idea behind a script and what it does then shows how to write one (state the goal then list tasks needed to achieve that goal then code each step or task).
+- A **script** is a series of instructions that the computer can follow to achieve a set goal. And each time the script runs it does not have to use all of the intructions, it might only use a subset according to the situation in hand.
+- Breaking down the script into tasks and drawing a flowchart can help a lot with the process of writing a script.
+
+**The second part** of this reading handles *expressions* which can be split into two types: ones that assign a value to a variable, and the others that use two or more values to return one value. *Operators* are used in expressions to allow programmers to create a single value from a set of values. Then some examples of arithmetic operators are shown and the order of execution for them. After that we are shown the only string operator "+" which is used to add two strings together (**concatenation**).

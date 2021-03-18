@@ -12,3 +12,4 @@
 |   Read 2 a     |[Learning Markdown](read02a.md)           |
 |   Read 2 b     |[Revisions and the Cloud](read02b.md)     |
 |   Read 3       |[Structure webpages with HTML](read03.md) |
+|   Read 4 a     |[Programming with JavaScript](read04a.md) |
