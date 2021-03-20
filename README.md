@@ -8,7 +8,7 @@
 
 |   Assignment    |   Link                                       |
 |-----------------|----------------------------------------------|
-|   Growth Mindset|[Growth Mindset](lab:02a-LearningMarkdown.md) |
+|   Growth Mindset|[Growth Mindset](lab02aLearningMarkdown.md)   |
 |   Read 1        |[The Coder's Computer](read01.md)             |
 |   Read 2 a      |[Learning Markdown](read02a.md)               |
 |   Read 2 b      |[Revisions and the Cloud](read02b.md)         |
