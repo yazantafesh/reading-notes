@@ -15,3 +15,4 @@
 |   Read 3        |[Structure webpages with HTML](read03.md)     |
 |   Read 4 a      |[Programming with JavaScript](read04a.md)     |
 |   Read 5        |[Operators and Loops](read05.md)              |
+|   Read 6        |[Design web pages with CSS](read06.md)        |
