@@ -6,6 +6,8 @@
 
 ### Code 102 Reading Notes
 
+
+
 |   Assignment    |   Link                                           |
 |-----------------|--------------------------------------------------|
 |   Growth Mindset|[Growth Mindset](102/lab02aLearningMarkdown.md)   |
@@ -17,7 +19,10 @@
 |   Read 5        |[Operators and Loops](102/read05.md)              |
 |   Read 6        |[Design web pages with CSS](102/read06.md)        |
 
+
+
 ### Code 201 Reading Notes
+
 
 
 |   Assignment    |   Link                                                                           |
@@ -33,7 +38,7 @@
 |   Read 9        |[Forms and Events](201/class09.md)                                                |
 |   Read 10       |[JS Debugging](201/class10.md)                                                    |
 |   Read 11       |[Assorted Topics](201/class11.md)                                                 |
-|   Read 12       |[Docs for the HTML <canvas> Element & Chart.js](201/class12.md)                   |
+|   Read 12       |[Docs for the HTML canvas Element & Chart.js](201/class12.md)                     |
 |   Read 13       |[Local Storage](201/class13.md)                                                   |
 |   Read 14a      |[CSS Transforms, Transitions, and Animations](201/class14.md)                     |
 |   Read 14b      |[What Google Learned About Teams](201/class15.md)                                 |
