@@ -1,7 +1,7 @@
-# Duckett HTML Book:
+## Duckett HTML Book:
 
-### Introdction
-This chapter is an introdction to the book, talking about how the internet works and how to access websites and the structure of the book itself.
+### Introduction
+This chapter is an introduction to the book, talking about how the internet works and how to access websites and the structure of the book itself.
 
 ### Chapter 1
 This chapter is about the structure of a webpage and how HTML uses elements to describe that structure like head and body tags.
@@ -26,7 +26,7 @@ An important step after that is the plan or the site map of the website which wi
 This chapter also emphasises on the idea that my site design is a reflection of what my message is supposed to be, the order, organization and priority of my content is extremely important for the succes of the website. Even the color, size and style of text or even images are all a vital part of the project. Also grouping, similarity and consistency can always help simplify the information I am presenting.
 
 
-# Duckett JS Book
+## Duckett JS Book
 
 ### Introduction
 This chapter starts with an introduction about JS describing briefly what we can do with it like access or modify content, put some program rules or react to specific events, then it shows some examples of how it is used in different websites.
