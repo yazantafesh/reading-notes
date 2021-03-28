@@ -14,7 +14,7 @@ address tag will usually display its contents in italics.
 ### Chapter 10
 This part gives an introduction about CSS and it's relationship with HTML, CSS helps control and modify the HTML elements already existing and make them more appealing to the user's eyes.
 A CSS rule contains a selector and a declaration. p{font-family: Arial;}.
-CSS file can be linked to HTML file by ><link href="" type="text/css" rel="stylesheet">
+CSS file can be linked to HTML file by <link href="" type="text/css" rel="stylesheet">
 or it can be internal withing the HTML file.
 Different types of selectors help target different rules and elements.
 Declarations have two parts: properties and the values of these properties.
@@ -29,12 +29,13 @@ There are multiple ways to declare variables; they can be declared and assigned 
 after a variable is created you can just change its value by using its name.
 
 Rules for naming variables:
-*must begin with a dollar sign or a letter or underscore
-*cant use dash or dot
-*cant use keywords or reserved words
-*variable names are case sensitive
-*use descriptive names
-*use camel case writing
+
+- must begin with a dollar sign or a letter or underscore
+- cant use dash or dot
+- cant use keywords or reserved words
+- variable names are case sensitive
+- use descriptive names
+- use camel case writing
 
 An array is used to store multiple values.
 items in an array are numbered starting from 0, and the number of items in an array is called length.
