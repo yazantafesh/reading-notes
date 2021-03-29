@@ -1,6 +1,7 @@
-## Duckett HTML Book:
+# Duckett HTML Book
 
 ### Chapter 2
+
 This chapter talks about different types of text that can be written into a webpage and the different tags used for different types starting with headings starting from 1 and going down, and then paragraphs. Bold and italic tags, superscript and subscript.
 Browsers treat multiple spaces as one space always which is called "white space collapsing".
 Line breaks and horizontal rules are used to create spaces when needed using br and hr tags.
@@ -12,6 +13,7 @@ address tag will usually display its contents in italics.
 
 
 ### Chapter 10
+
 This part gives an introduction about CSS and it's relationship with HTML, CSS helps control and modify the HTML elements already existing and make them more appealing to the user's eyes.
 A CSS rule contains a selector and a declaration. p{font-family: Arial;}.
 CSS file can be linked to HTML file by <link href="" type="text/css" rel="stylesheet">
@@ -19,9 +21,10 @@ or it can be internal withing the HTML file.
 Different types of selectors help target different rules and elements.
 Declarations have two parts: properties and the values of these properties.
 
-## Duckett JS Book:
+# Duckett JS Book:
 
 ### Chapter 2
+
 This chapter starts with explaining what a statements is which is the main component of a script and then explains comments which are part of the code that is not executed and is used to help any code reader understand what is happening. Also a variable is what is used to store a certain value that will be used in different functions and operations.
 To declare a variable we must use var or let or any other declaration words then the variable name and then the value wanted for that variable.
 There are 3 data types; numeric, string and boolean.
@@ -60,6 +63,7 @@ logical operators allow the comparison of the results of more than one compariso
 ! Logical not  !true condition returns false and vice versa
 
 ### Chapter 4
+
 This chapter talks about decision making and loops. Decision making and understanding the steps involved in a script is extremely important to get the code to work.
 Decisions compose of a condition and an evaluation of the condition, and evaluations can be done using comparison operators to compare a value in the script to what it is expected to be.
 expressions are often enclosed in brackets and have two operands with an operator in between.
