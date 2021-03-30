@@ -16,10 +16,12 @@ We can add an image as the border of a box or add shadows or rounded corners or 
 # Duckett JS Book
 
 ### Chapter 2
+
 This is just a review about arrays from yesterday's reading.
 
-### Chapter 4 
-This a continuation to the chapter staring from the switch. 
+### Chapter 4
+
+This a continuation to the chapter staring from the switch.
 A switch statement contains a variable called switch value and cases each containing a possible value for the switch value and a code to run corresponding to that value. And a default case to run a code if none of the cases happened.
 Data types can be coerced from one type to another in JS to try to do an operation.
 All values are either truthy or falsy.
