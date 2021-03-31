@@ -15,7 +15,7 @@ Box offset properties can also be used to pleace boxes in specific places in rel
 Browsers display pages in normal flow unless you specify otherwise.
 Pages can have fixed width or stretchy layouts.
 
-# Duckett JD Book
+# Duckett Js Book
 
 ### Chapter 3
 
