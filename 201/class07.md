@@ -6,6 +6,8 @@ This chapter talks about tables which are a way to represent information in a gr
 th is used for table headings and columns can be spanned through several columns and the same goes for rows using rowspan and colspan attributes.
 For long tables you can split the table into thead, tbody and tfoot attributes.
 
+# Duckett JS Book
+
 ### Chapter 3
 
 This chapter talks about objects and how create them using contructor method.
