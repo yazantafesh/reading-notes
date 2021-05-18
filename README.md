@@ -48,7 +48,7 @@
 |   Read 1           | [Introduction to React and Components](301/read01.md)                             |
 |   Read 2           | [State and Props](301/read02.md)                                                  |
 |   Read 3           | [Passing Functions as Props](301/read03.md)                                       |
-|   Read 4           | [HTML Links, JS Functions, and Intro to CSS Layout](201/class04.md)               |
+|   Read 4           | [React and Forms](301/read04.md)                                                  |
 |   Read 5           | [HTML Images; CSS Color & Text](201/class05.md)                                   |
 |   Read 6           | [JS Object Literals; The DOM](201/class06.md)                                     |
 |   Read 7           | [HTML Tables; JS Constructor Functions](201/class07.md)                           |
