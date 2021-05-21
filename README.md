@@ -50,7 +50,7 @@
 |   Read 3           | [Passing Functions as Props](301/read03.md)                                       |
 |   Read 4           | [React and Forms](301/read04.md)                                                  |
 |   Read 5           | [Putting it all together](301/read05.md)                                          |
-|   Read 6           | [JS Object Literals; The DOM](201/class06.md)                                     |
+|   Read 6           | [NODE.JS](301/read06.md)                                                          |
 |   Read 7           | [HTML Tables; JS Constructor Functions](201/class07.md)                           |
 |   Read 8           | [More CSS Layout](201/class08.md)                                                 |
 |   Read 9           | [Forms and Events](201/class09.md)                                                |
