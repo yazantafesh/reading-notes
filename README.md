@@ -57,9 +57,8 @@
 |   Read 10          | [In memory storage](301/read10.md)                                                |
 |   Read 11          | [Authentication](301/read11.md)                                                   |
 |   Read 12          | [Mongo and Mongoose](301/read12.md)                                               |
-|   Read 13          | [Local Storage](201/class13.md)                                                   |
-|   Read 14a         | [CSS Transforms, Transitions, and Animations](201/class14.md)                     |
-|   Read 14b         | [What Google Learned About Teams](201/class15.md)                                 |
+|   Read 13          | [CRUD](301/read13.md)                                                             |
+|   Read 14          | [Project Ideas](301/read14.md)                                                    |
 
 ### Code 401 Reading Notes
 
