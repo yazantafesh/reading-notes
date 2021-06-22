@@ -80,4 +80,4 @@
 |   Read 14a         | [CSS Transforms, Transitions, and Animations](201/class14.md)                     |
 |   Read 14b         | [What Google Learned About Teams](201/class15.md)                                 |
 
-**The data in the tables for Code 301 and 401 are wrong and are yet to be filled**
+**The data in the table for Code 401 are wrong and are yet to be filled**
