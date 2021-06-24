@@ -64,8 +64,8 @@
 
 |    Assignment      |                                  Link                                             |
 |--------------------|-----------------------------------------------------------------------------------|
-|   Read 1           | [Introductory HTML and JavaScript](201/class01.md)                                |
-|   Read 2           | [HTML Text, CSS Introduction, and Basic JavaScript Instructions](201/class02.md)  |
+|   Read 0           | [Advanced Javascript Development](401/read00.md)                                  |
+|   Read 1           | [Node Ecosystem, TDD, CI/CD](401/read01.md)                                       |
 |   Read 3           | [HTML Lists, CSS Boxes, JS Control Flow](201/class03.md)                          |
 |   Read 4           | [HTML Links, JS Functions, and Intro to CSS Layout](201/class04.md)               |
 |   Read 5           | [HTML Images; CSS Color & Text](201/class05.md)                                   |
