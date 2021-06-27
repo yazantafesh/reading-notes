@@ -66,10 +66,10 @@
 |--------------------|-----------------------------------------------------------------------------------|
 |   Read 0           | [Advanced Javascript Development](401/read00.md)                                  |
 |   Read 1           | [Node Ecosystem, TDD, CI/CD](401/read01.md)                                       |
-|   Read 3           | [HTML Lists, CSS Boxes, JS Control Flow](201/class03.md)                          |
-|   Read 4           | [HTML Links, JS Functions, and Intro to CSS Layout](201/class04.md)               |
-|   Read 5           | [HTML Images; CSS Color & Text](201/class05.md)                                   |
-|   Read 6           | [JS Object Literals; The DOM](201/class06.md)                                     |
+|   Read 2           | [Express](401/read02.md)                                                          |
+|   Read 3           | [HTML Links, JS Functions, and Intro to CSS Layout](201/class04.md)               |
+|   Read 4           | [HTML Images; CSS Color & Text](201/class05.md)                                   |
+|   Read 5           | [JS Object Literals; The DOM](201/class06.md)                                     |
 |   Read 7           | [HTML Tables; JS Constructor Functions](201/class07.md)                           |
 |   Read 8           | [More CSS Layout](201/class08.md)                                                 |
 |   Read 9           | [Forms and Events](201/class09.md)                                                |
