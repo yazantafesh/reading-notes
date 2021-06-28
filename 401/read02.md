@@ -43,3 +43,36 @@
 - ***Routing***: refers to how an application’s endpoints (URIs) respond to client requests.
 
 - ***WRRC***: web request/response cycle traces how a user’s request flows through the app.
+
+## Preparation Materials
+
+- An introduction to NodeJS and Express
+
+  Express and Node's main benefits, and roughly what the main parts of an Express app might look like (routes, middleware, error handling, and template code). I should also understand that with Express being an unopinionated framework, the way you pull these parts together and the libraries that you use are largely up to you!
+
+- What is NPM?
+
+  npm is the world's largest software registry. Open source developers from every continent use npm to share and borrow packages, and many organizations use npm to manage private development as well.
+
+  **npm consists of three distinct components:**
+
+  - the website
+  - the Command Line Interface (CLI)
+  - the registry
+
+- What is TDD?
+
+  “Test-driven development” refers to a style of programming in which three activities are tightly interwoven: coding, testing (in the form of writing unit tests) and design (in the form of refactoring).
+
+  It can be succinctly described by the following set of rules:
+
+  - write a “single” unit test describing an aspect of the program
+  - run the test, which should fail because the program lacks that feature
+  - write “just enough” code, the simplest possible, to make the test pass
+  - “refactor” the code until it conforms to the simplicity criteria
+  - repeat, “accumulating” unit tests over time
+
+- CI/CD
+
+  Continuous integration(CI) is a coding philosophy and set of practices that drive development teams to implement small changes and check in code to version control repositories frequently. Because most modern applications require developing code in different platforms and tools, the team needs a mechanism to integrate and validate its changes.
+  
