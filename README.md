@@ -68,7 +68,7 @@
 |   Read 1           | [Node Ecosystem, TDD, CI/CD](401/read01.md)                                       |
 |   Read 2           | [Express](401/read02.md)                                                          |
 |   Read 3           | [Express REST API](401/read03.md)                                                 |
-|   Read 4           | [HTML Images; CSS Color & Text](201/class05.md)                                   |
+|   Read 4           | [Data Modeling](401/read04.md)                                                    |
 |   Read 5           | [JS Object Literals; The DOM](201/class06.md)                                     |
 |   Read 7           | [HTML Tables; JS Constructor Functions](201/class07.md)                           |
 |   Read 8           | [More CSS Layout](201/class08.md)                                                 |
