@@ -70,7 +70,7 @@
 |   Read 3           | [Express REST API](401/read03.md)                                                 |
 |   Read 4           | [Data Modeling](401/read04.md)                                                    |
 |   Read 6           | [Authentication](401/read06.md)                                                   |
-|   Read 7           | [HTML Tables; JS Constructor Functions](201/class07.md)                           |
+|   Read 7           | [Bearer Authorization](401/read07.md)                                             |
 |   Read 8           | [More CSS Layout](201/class08.md)                                                 |
 |   Read 9           | [Forms and Events](201/class09.md)                                                |
 |   Read 10          | [JS Debugging](201/class10.md)                                                    |
