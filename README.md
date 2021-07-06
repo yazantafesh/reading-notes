@@ -71,8 +71,8 @@
 |   Read 4           | [Data Modeling](401/read04.md)                                                    |
 |   Read 6           | [Authentication](401/read06.md)                                                   |
 |   Read 7           | [Bearer Authorization](401/read07.md)                                             |
-|   Read 8           | [Access Control (ACL)](401/read08.md)                                            |
-|   Read 9           | [Forms and Events](201/class09.md)                                                |
+|   Read 8           | [Access Control (ACL)](401/read08.md)                                             |
+|   Read 9           | [SQL](401/read09.md)                                                              |
 |   Read 10          | [JS Debugging](201/class10.md)                                                    |
 |   Read 11          | [Assorted Topics](201/class11.md)                                                 |
 |   Read 12          | [Docs for the HTML canvas Element & Chart.js](201/class12.md)                     |
