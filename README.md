@@ -74,7 +74,7 @@
 |   Read 8           | [Access Control (ACL)](401/read08.md)                                             |
 |   Read 9           | [SQL](401/read09.md)                                                              |
 |   Read 11          | [Event Driven Applications](401/read11.md)                                        |
-|   Read 11          | [Assorted Topics](201/class11.md)                                                 |
+|   Read 12          | [Socket.io](401/read12.md)                                                        |
 |   Read 12          | [Docs for the HTML canvas Element & Chart.js](201/class12.md)                     |
 |   Read 13          | [Local Storage](201/class13.md)                                                   |
 |   Read 14a         | [CSS Transforms, Transitions, and Animations](201/class14.md)                     |
