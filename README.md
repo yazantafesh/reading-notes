@@ -76,8 +76,8 @@
 |   Read 11          | [Event Driven Applications](401/read11.md)                                        |
 |   Read 12          | [Socket.io](401/read12.md)                                                        |
 |   Read 13          | [Message Queues](401/read13.md)                                                   |
-|   Read 14          | [Local Storage](201/class13.md)                                                   |
-|   Read 14a         | [CSS Transforms, Transitions, and Animations](201/class14.md)                     |
+|   Read 14          | [Event Driven Architecture](401/read14.md)                                        |
+|   Read 15          | [CSS Transforms, Transitions, and Animations](401/read15.md)                      |
 |   Read 14b         | [What Google Learned About Teams](201/class15.md)                                 |
 
 **The data in the table for Code 401 are wrong and are yet to be filled**
