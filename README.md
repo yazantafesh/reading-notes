@@ -79,5 +79,4 @@
 |   Read 14          | [Event Driven Architecture](401/read14.md)                                        |
 |   Read 16          | [AWS: Cloud Servers](401/read16.md)                                               |
 |   Read 17          | [AWS: S3 and Lambda](401/read17.md)                                               |
-
-**The data in the table for Code 401 are wrong and are yet to be filled**
+|   Read 18          | [AWS: API, Dynamo and Lambda](401/read18.md)                                      |
