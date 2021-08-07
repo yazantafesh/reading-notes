@@ -81,3 +81,4 @@
 |   Read 17          | [AWS: S3 and Lambda](401/read17.md)                                               |
 |   Read 18          | [AWS: API, Dynamo and Lambda](401/read18.md)                                      |
 |   Read 19          | [AWS: Events](401/read19.md)                                                      |
+|   Read 26          | [Component Based UI](401/read26.md)                                               |
