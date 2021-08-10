@@ -84,3 +84,4 @@
 |   Read 26          | [Component Based UI](401/read26.md)                                               |
 |   Read 27          | [useState Hook](401/read27.md)                                                    |
 |   Read 28          | [Component Lifecycle / useEffect() Hook](401/read28.md)                           |
+|   Read 29          | [Advanced State with Reducers](401/read29.md)                                     |
