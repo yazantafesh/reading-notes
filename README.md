@@ -87,3 +87,4 @@
 |   Read 29          | [Advanced State with Reducers](401/read29.md)                                     |
 |   Read 31          | [Context API](401/read31.md)                                                      |
 |   Read 32          | [Context API - Behaviors](401/read32.md)                                          |
+|   Read 33          | [Login and Auth](401/read33.md)                                                   |
