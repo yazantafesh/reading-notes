@@ -90,3 +90,4 @@
 |   Read 33          | [Login and Auth](401/read33.md)                                                   |
 |   Read 34          | [API Integration](401/read34.md)                                                  |
 |   Read 36          | [Application State with Redux](401/read36.md)                                     |
+|   Read 37          | [Redux - Combined Reducers](401/read37.md)                                        |
