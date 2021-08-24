@@ -92,6 +92,6 @@
 |   Read 36          | [Application State with Redux](401/read36.md)                                     |
 |   Read 37          | [Redux - Combined Reducers](401/read37.md)                                        |
 |   Read 38          | [Redux - Asynchronous Actions](401/read38.md)                                     |
-|   Read 37          | [Redux - Combined Reducers](401/read37.md)                                        |
+|   Read 39          | [Redux - Additional Topics](401/read39.md)                                        |
 |   Read 37          | [Redux - Combined Reducers](401/read37.md)                                        |
 |   Read 37          | [Redux - Combined Reducers](401/read37.md)                                        |
